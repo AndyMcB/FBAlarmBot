@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/AndyMcB/FBAlarmBot/issues"
   },
-  "homepage": "https://github.com/AndyMcB/FBAlarmBot#readme"
+  "homepage": "https://github.com/AndyMcB/FBAlarmBot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "request": "^2.83.0"
+  }
 }
